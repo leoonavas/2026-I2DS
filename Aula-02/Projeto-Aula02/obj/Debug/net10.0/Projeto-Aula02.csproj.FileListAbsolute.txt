@@ -1,0 +1,15 @@
+/Users/DS1/Desktop/DS2026/Aula-02/Projeto-Aula02/obj/Debug/net10.0/Projeto-Aula02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/Desktop/DS2026/Aula-02/Projeto-Aula02/obj/Debug/net10.0/Projeto-Aula02.AssemblyInfoInputs.cache
+/Users/DS1/Desktop/DS2026/Aula-02/Projeto-Aula02/obj/Debug/net10.0/Projeto-Aula02.AssemblyInfo.cs
+/Users/DS1/Desktop/DS2026/Aula-02/Projeto-Aula02/obj/Debug/net10.0/Projeto-Aula02.csproj.CoreCompileInputs.cache
+/Users/DS1/Desktop/DS2026/Aula-02/Projeto-Aula02/obj/Debug/net10.0/Projeto-Aula02.sourcelink.json
+/Users/DS1/Desktop/DS2026/Aula-02/Projeto-Aula02/bin/Debug/net10.0/Projeto-Aula02
+/Users/DS1/Desktop/DS2026/Aula-02/Projeto-Aula02/bin/Debug/net10.0/Projeto-Aula02.deps.json
+/Users/DS1/Desktop/DS2026/Aula-02/Projeto-Aula02/bin/Debug/net10.0/Projeto-Aula02.runtimeconfig.json
+/Users/DS1/Desktop/DS2026/Aula-02/Projeto-Aula02/bin/Debug/net10.0/Projeto-Aula02.dll
+/Users/DS1/Desktop/DS2026/Aula-02/Projeto-Aula02/bin/Debug/net10.0/Projeto-Aula02.pdb
+/Users/DS1/Desktop/DS2026/Aula-02/Projeto-Aula02/obj/Debug/net10.0/Projeto-Aula02.dll
+/Users/DS1/Desktop/DS2026/Aula-02/Projeto-Aula02/obj/Debug/net10.0/refint/Projeto-Aula02.dll
+/Users/DS1/Desktop/DS2026/Aula-02/Projeto-Aula02/obj/Debug/net10.0/Projeto-Aula02.pdb
+/Users/DS1/Desktop/DS2026/Aula-02/Projeto-Aula02/obj/Debug/net10.0/Projeto-Aula02.genruntimeconfig.cache
+/Users/DS1/Desktop/DS2026/Aula-02/Projeto-Aula02/obj/Debug/net10.0/ref/Projeto-Aula02.dll
