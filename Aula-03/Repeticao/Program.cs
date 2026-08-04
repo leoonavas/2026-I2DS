@@ -21,5 +21,12 @@
 
         }
         Console.WriteLine("Acesso Permitido!");
+
+        int num;
+        do
+        {
+            Console.Write("Digite um numero positivo: ");
+            num = int.Parse(Console.ReadLine());
+        } while (num <= 0);
     }
 }
