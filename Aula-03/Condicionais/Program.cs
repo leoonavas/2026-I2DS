@@ -19,10 +19,48 @@
         if (nota >= 7)
         {
             Console.WriteLine("Aprovado");
-        } else
+        }
+        else
         {
             Console.WriteLine("Reprovado");
 
+        }
+
+        bool bloqueado = false;
+
+        if (!bloqueado)
+        {
+            Console.WriteLine("Acesso permitido");
+        }
+
+
+
+        Console.WriteLine("1 - Cadastrar");
+        Console.WriteLine("2 - Consultar");
+        Console.WriteLine("3 - Excluir");
+        Console.WriteLine("4 - Sair");
+
+        Console.Write("Escolha uma opcao: ");
+        int opcao = int.Parse(Console.ReadLine());
+        
+        switch (opcao)
+        {
+            case 1:
+                Console.WriteLine("Cadastro selecionado");
+                break;
+            case 2:
+                Console.WriteLine("Consulta selecionada");
+                break;
+            case 3:
+                Console.WriteLine("Exclusao selecionada");
+                break;
+            case 4:
+                Console.WriteLine("Encerrando sistema");
+                break;
+            default:
+                Console.WriteLine("Opcao invalida");
+
+                break;
         }
     }
 }
