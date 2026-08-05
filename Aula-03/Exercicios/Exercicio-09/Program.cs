@@ -6,8 +6,8 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        Line(6);
-        Exercicio06();
+        Line(9);
+        Exercicio09();
 
     }
 
@@ -19,7 +19,7 @@ internal class Program
     {
         Console.WriteLine(text);
     }
-    public static void Exercicio06()
+    public static void Exercicio09()
     {
        
 

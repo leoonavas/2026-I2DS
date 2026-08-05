@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/DS1/Desktop/DS2026/Aula-03/Exercicios/Exercicio-05/Exercicio-01.csproj": {}
+    "/Users/DS1/Desktop/DS2026/Aula-03/Exercicios/Exercicio-10/Exercicio-01.csproj": {}
   },
   "projects": {
-    "/Users/DS1/Desktop/DS2026/Aula-03/Exercicios/Exercicio-05/Exercicio-01.csproj": {
+    "/Users/DS1/Desktop/DS2026/Aula-03/Exercicios/Exercicio-10/Exercicio-01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/DS1/Desktop/DS2026/Aula-03/Exercicios/Exercicio-05/Exercicio-01.csproj",
+        "projectUniqueName": "/Users/DS1/Desktop/DS2026/Aula-03/Exercicios/Exercicio-10/Exercicio-01.csproj",
         "projectName": "Exercicio-01",
-        "projectPath": "/Users/DS1/Desktop/DS2026/Aula-03/Exercicios/Exercicio-05/Exercicio-01.csproj",
+        "projectPath": "/Users/DS1/Desktop/DS2026/Aula-03/Exercicios/Exercicio-10/Exercicio-01.csproj",
         "packagesPath": "/Users/DS1/.nuget/packages/",
-        "outputPath": "/Users/DS1/Desktop/DS2026/Aula-03/Exercicios/Exercicio-05/obj/",
+        "outputPath": "/Users/DS1/Desktop/DS2026/Aula-03/Exercicios/Exercicio-10/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/DS1/.nuget/NuGet/NuGet.Config"
