@@ -39,12 +39,6 @@ internal class Program
                 if (quantidadenotas == 1)
                 {
                     Console.WriteLine(quantidadenotas + " nota de " + notas[i]);
-
-                }
-                else
-                {
-                    Console.WriteLine(quantidadenotas + " notas de " + notas[i]);
-
                 }
             }
         }
