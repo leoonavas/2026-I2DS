@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\50364555840\\Desktop\\2026-I2DS\\Exercicio-05\\Exercicio-05.csproj": {}
+    "C:\\Users\\50364555840\\Desktop\\2026-I2DS\\Exercicio-05\\Exercicio-05.csproj": {}
   },
   "projects": {
-    "c:\\Users\\50364555840\\Desktop\\2026-I2DS\\Exercicio-05\\Exercicio-05.csproj": {
+    "C:\\Users\\50364555840\\Desktop\\2026-I2DS\\Exercicio-05\\Exercicio-05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\50364555840\\Desktop\\2026-I2DS\\Exercicio-05\\Exercicio-05.csproj",
+        "projectUniqueName": "C:\\Users\\50364555840\\Desktop\\2026-I2DS\\Exercicio-05\\Exercicio-05.csproj",
         "projectName": "Exercicio-05",
-        "projectPath": "c:\\Users\\50364555840\\Desktop\\2026-I2DS\\Exercicio-05\\Exercicio-05.csproj",
+        "projectPath": "C:\\Users\\50364555840\\Desktop\\2026-I2DS\\Exercicio-05\\Exercicio-05.csproj",
         "packagesPath": "C:\\Users\\50364555840\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\50364555840\\Desktop\\2026-I2DS\\Exercicio-05\\obj\\",
+        "outputPath": "C:\\Users\\50364555840\\Desktop\\2026-I2DS\\Exercicio-05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\50364555840\\AppData\\Roaming\\NuGet\\NuGet.Config",
