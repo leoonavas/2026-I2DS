@@ -27,7 +27,6 @@ internal class Program
             new Venda { Produto = "Café", Categoria = "Alimentos", Valor = 35.00 }
         };
 
-        // Agrupa vendas por categoria e calcula o faturamento
         var relatorio = vendas
             .GroupBy(v => v.Categoria)
             .Select(g => new
@@ -45,7 +44,6 @@ internal class Program
             );
         }
 
-        // Encontra a categoria com maior faturamento
         var categoriaVencedora = relatorio
             .OrderByDescending(c => c.Total)
             .First();
